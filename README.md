@@ -1,6 +1,6 @@
 # 26 A production data
 
-GitHub 网页单文件限制为 25 MB，因此数据分为两个文件。下载 `production_data.npz.part1` 和 `production_data.npz.part2` 后放在同一目录。
+仓库已通过 Git 直接上传完整的 `production_data.npz`。网页上传时的两个分卷仅作为备用。
 
 Windows PowerShell：
 ```powershell
